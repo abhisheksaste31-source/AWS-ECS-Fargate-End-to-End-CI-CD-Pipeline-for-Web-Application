@@ -1,8 +1,13 @@
 # 🚀 AWS ECS Fargate – End-to-End CI/CD Pipeline for Web Application
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge\&logo=amazonaws\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Amazon-ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white](https://img.shields.io/badge/Amazon-ECS-FF9900?style=for-the-badge\&logo=amazonecs\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/AWS-Fargate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white](https://img.shields.io/badge/AWS-Fargate-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/CI%2FCD-Automation-green?style=for-the-badge](https://img.shields.io/badge/CI%2FCD-Automation-green?style=for-the-badge)" /> \</p>
+<p align="center">  
+<img src="[https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge\&logo=amazonaws\&logoColor=white)" /> 
+<img src="[https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)" />   
+<img src="[https://img.shields.io/badge/Amazon-ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white](https://img.shields.io/badge/Amazon-ECS-FF9900?style=for-the-badge\&logo=amazonecs\&logoColor=white)" /> 
+<img src="[https://img.shields.io/badge/AWS-Fargate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white](https://img.shields.io/badge/AWS-Fargate-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)" /> 
+<img src="[https://img.shields.io/badge/CI%2FCD-Automation-green?style=for-the-badge](https://img.shields.io/badge/CI%2FCD-Automation-green?style=for-the-badge)" /> </p>
 
-\<p align="center">   \<b>Automating containerized web application deployment using AWS DevOps services.\</b> \</p>
+<p align="center">   <b>Automating containerized web application deployment using AWS DevOps services.</b> </p>
 
 ---
 
@@ -18,9 +23,9 @@ The objective is to reduce manual deployment efforts and implement an automated 
 
 ## 🏗️ Architecture Diagram
 
-\<p align="center">
-&#x20; \<img src="architecture/aws-ecs-fargate-cicd-architecture.png" alt="AWS ECS Fargate CI/CD Architecture" width="100%" />
-\</p>
+<p align="center">
+&#x20; <img src="architecture/aws-ecs-fargate-cicd-architecture.png" alt="AWS ECS Fargate CI/CD Architecture" width="100%" />
+</p>
 
 ## 🔄 CI/CD Workflow
 
@@ -215,6 +220,6 @@ Project Repository: [AWS ECS Fargate End-to-End CI/CD Pipeline](https://github.c
 
 ---
 
-\<p align="center">   \<b>⭐ If you find this project useful, consider giving it a star!\</b> \</p>
+<p align="center">   <b>⭐ If you find this project useful, consider giving it a star!</b> </p>
 
-\<p align="center">   \<b>Learn • Build • Automate • Deploy\</b> \</p>
+<p align="center">   <b>Learn • Build • Automate • Deploy</b> </p>
